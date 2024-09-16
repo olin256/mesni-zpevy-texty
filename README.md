@@ -1,5 +1,6 @@
 # mesni-zpevy-texty
 Texty písní z Mešních zpěvů.
+Naleznete je ve složce [txt](/txt).
 
 Sekundární projekt k [doprovodům MZ](https://github.com/olin256/mesni-zpevy).
 
